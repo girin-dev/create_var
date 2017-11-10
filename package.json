@@ -1,0 +1,26 @@
+{
+  "name": "create_var",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girin-dev/create_var.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girin-dev/create_var/issues"
+  },
+  "homepage": "https://github.com/girin-dev/create_var#readme",
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-html": "^3.2.2",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
